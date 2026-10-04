@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 174,
-    "timeDay": 174,
-    "timeWeek": 174,
-    "timeMonth": 174,
-    "timeYear": 174,
+    "time": 203,
+    "timeDay": 203,
+    "timeWeek": 203,
+    "timeMonth": 203,
+    "timeYear": 203,
     "dailyMinutesDown": {}
   },
   {
@@ -28,31 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 113,
-    "timeDay": 113,
-    "timeWeek": 113,
-    "timeMonth": 113,
-    "timeYear": 113,
+    "time": 126,
+    "timeDay": 126,
+    "timeWeek": 126,
+    "timeMonth": 126,
+    "timeYear": 126,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "Prueba de aviso",
-    "url": "https://lanuevahistoria.tech/prueba-upptime-404/",
-    "icon": "https://icons.duckduckgo.com/ip3/lanuevahistoria.tech.ico",
-    "slug": "prueba-de-aviso",
-    "status": "down",
-    "uptime": "56.94%",
-    "uptimeDay": "56.94%",
-    "uptimeWeek": "56.94%",
-    "uptimeMonth": "56.94%",
-    "uptimeYear": "56.94%",
-    "time": 102,
-    "timeDay": 102,
-    "timeWeek": 102,
-    "timeMonth": 102,
-    "timeYear": 102,
-    "dailyMinutesDown": {
-      "2026-10-04": 0
-    }
   }
 ]
