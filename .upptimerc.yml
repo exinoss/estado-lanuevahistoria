@@ -9,6 +9,8 @@ sites:
   - name: API
     url: https://lanuevahistoria.tech/api/health
     maxResponseTime: 5000
+  - name: Prueba de aviso
+    url: https://lanuevahistoria.tech/prueba-upptime-404/
 
 status-website:
   baseUrl: /estado-lanuevahistoria
